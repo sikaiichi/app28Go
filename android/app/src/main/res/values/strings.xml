@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">28Go - DIMA.COM.VN</string>
+    <string name="facebook_app_id">263826852891986</string>
+    <string name="fb_login_protocol_scheme">fb263826852891986</string>
+    <string name="facebook_client_token">4798fddfff9b805f1cc4b6d3794f8181</string>
+</resources>

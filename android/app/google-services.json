@@ -1,0 +1,169 @@
+{
+  "project_info": {
+    "project_number": "244552898375",
+    "project_id": "credible-glow-410409",
+    "storage_bucket": "credible-glow-410409.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244552898375:android:4d49bfdc166f3646881e62",
+        "android_client_info": {
+          "package_name": "com.dima.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244552898375-reivfqpu9tqkjfael8oa8q6f5ctaonfq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dima.driver",
+            "certificate_hash": "d63ce7293f8013fe0e6693dcfcf3738507923c2e"
+          }
+        },
+        {
+          "client_id": "244552898375-v2qs5tnerui7oni4cf38pi1g8piekik9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dima.driver",
+            "certificate_hash": "eeb4e8bde4e0d3d9d5e70a80c2ec3ee26e704994"
+          }
+        },
+        {
+          "client_id": "244552898375-98j5iu90o43g01afj9ujcrj4iqfipr1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpx9M6KDPNxJPiuTHJi0Zu_EakXmLVYiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244552898375-98j5iu90o43g01afj9ujcrj4iqfipr1l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "244552898375-3rntvivt60h7lbgte8rvb78g6cu1c79l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dima.go",
+                "app_store_id": "6472446551"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244552898375:android:c121675eea21e585881e62",
+        "android_client_info": {
+          "package_name": "com.dima.go"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244552898375-ii94lpfbbf3qbvk2g66mqlgfoaabitk6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dima.go",
+            "certificate_hash": "3df30f44532dfe12277401bf168acf504194fe88"
+          }
+        },
+        {
+          "client_id": "244552898375-umagn65ficjmi7p1j9sudllm3gtsr5pp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dima.go",
+            "certificate_hash": "a93cfdb417d5b216929d26a0230c34e7f19eae8b"
+          }
+        },
+        {
+          "client_id": "244552898375-98j5iu90o43g01afj9ujcrj4iqfipr1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpx9M6KDPNxJPiuTHJi0Zu_EakXmLVYiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244552898375-98j5iu90o43g01afj9ujcrj4iqfipr1l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "244552898375-3rntvivt60h7lbgte8rvb78g6cu1c79l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dima.go",
+                "app_store_id": "6472446551"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244552898375:android:444d965d3a6be50a881e62",
+        "android_client_info": {
+          "package_name": "com.dima.merchant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244552898375-aucoh0uupai9evg4bp2jh65tribv6gq3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dima.merchant",
+            "certificate_hash": "b5565942272dc7634ca7d3aba3d52e534143a07f"
+          }
+        },
+        {
+          "client_id": "244552898375-in12u6avhkadt4p41k8e17lecdqbcdm9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dima.merchant",
+            "certificate_hash": "9f89c59c64891922851e127e7ece03617d758cb7"
+          }
+        },
+        {
+          "client_id": "244552898375-98j5iu90o43g01afj9ujcrj4iqfipr1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpx9M6KDPNxJPiuTHJi0Zu_EakXmLVYiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244552898375-98j5iu90o43g01afj9ujcrj4iqfipr1l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "244552898375-3rntvivt60h7lbgte8rvb78g6cu1c79l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dima.go",
+                "app_store_id": "6472446551"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

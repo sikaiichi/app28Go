@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>244552898375-3rntvivt60h7lbgte8rvb78g6cu1c79l.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.244552898375-3rntvivt60h7lbgte8rvb78g6cu1c79l</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>244552898375-aucoh0uupai9evg4bp2jh65tribv6gq3.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDNSuxvOzeWqd3nTDaWsONPo3wiGLcnWqg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>244552898375</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.dima.go</string>
+	<key>PROJECT_ID</key>
+	<string>credible-glow-410409</string>
+	<key>STORAGE_BUCKET</key>
+	<string>credible-glow-410409.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:244552898375:ios:ed6c4d6524e7b224881e62</string>
+</dict>
+</plist>
